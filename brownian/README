@@ -1,0 +1,4 @@
+coefficients in e terms in potential function are dials. these terms add modularity to the function. 
+other terms should remain similar to prevent divergence of particle
+
+the big script with monte carlo and boltzmann dist comparison uses a similar but e-less U(x)
